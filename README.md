@@ -29,7 +29,7 @@ Getting started:
         "secret":"<secret>"
       }
 
-    You will also need to set these values in "~/docker-config.yml":
+    You will also need to set these values in "~/docker-compose.yml":
       - POSTGRES_DB=<dbname>
       - POSTGRES_USER=<username>
       - POSTGRES_PASSWORD=<password>
